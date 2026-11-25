@@ -1,0 +1,13 @@
+torch
+torchvision
+transformers
+pandas
+scikit-learn
+matplotlib
+pillow
+tqdm
+# Milestone 3 (explainability) and demo:
+# lime
+# shap
+# grad-cam
+# gradio
